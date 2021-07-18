@@ -10,7 +10,7 @@ With Magento 2 Canonical Url, you add a canonical meta tag to several pages of t
 
 * Add canonical link tag at the product, category, CMS, cart pages, and any other pages
 * Set a custom canonical link tag per single/individual product, category, CMS page
-* Use longest or shortest categories path for product canonical URLs 
+* Use longest or shortest categories path for product canonical link tag
 * Add canonical link tag per product attribute, for pages filtered by layered navigation
 * Add canonical link tag for category pager and layered navigation
 * Exclude canonical link tag per product, category, CMS pages, or any other page
