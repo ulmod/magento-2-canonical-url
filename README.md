@@ -1,6 +1,6 @@
 # Magento 2 Canonical Url Extension
 
-[Magento 2 Canonical Url](https://www.ulmod.com/magento-2-canonical-url-extension.html)  is a Magento 2 extension that extends the default Magento 2 canonicals with a bunch of extra features to avoid duplicate content.
+[Magento 2 Canonical Url](https://www.ulmod.com/magento-2-canonical-url-extension.html)  is a Magento 2 extension that extends the default Magento 2 canonical with a bunch of extra features to avoid duplicate content.
 
 With Magento 2 Canonical Url, you add a canonical meta tag to several pages of the store to tells the search engine which URL is the “correct” version and avoids duplicate.
 
